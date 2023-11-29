@@ -72,13 +72,12 @@ namespace dgw_cu_imagini
                     dt.Rows.Add(row);
                 }
                 con.Close();
-
+                dataGridView1.RowTemplate.Height = 100;
                 dataGridView1.DataSource = dt;
 
                 DataGridViewImageColumn img = dataGridView1.Columns["image"] as DataGridViewImageColumn;
                 img.ImageLayout = DataGridViewImageCellLayout.Stretch;
-
-
+                
             }
             catch (Exception ex)
             {

@@ -8,3 +8,13 @@ C:\Users\Vlad\source\repos\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagin
 C:\Users\Vlad\source\repos\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.csproj.CoreCompileInputs.cache
 C:\Users\Vlad\source\repos\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.exe
 C:\Users\Vlad\source\repos\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.pdb
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\bin\Debug\dgw cu imagini.exe.config
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\bin\Debug\dgw cu imagini.exe
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\bin\Debug\dgw cu imagini.pdb
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.csproj.AssemblyReference.cache
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw_cu_imagini.Form1.resources
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw_cu_imagini.Properties.Resources.resources
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.csproj.GenerateResource.cache
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.csproj.CoreCompileInputs.cache
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.exe
+C:\Users\vladp\Desktop\c#\dotnet-apps\dgw cu imagini\dgw cu imagini\obj\Debug\dgw cu imagini.pdb
